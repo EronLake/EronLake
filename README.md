@@ -19,10 +19,12 @@ Repo: The code belongs to 2025 Labs and so I cannot share  :(
 Demo Reel of some games I worked on in collage (including the games above)! 
 
 Children of Ase: College Final Game project---For which I was the lead!
+
 Repo: https://github.com/EronLake/Children-of-Ase
 Facebook Page: https://www.facebook.com/ChildrenofAse/?ref=page_internal
 
 Conjure Strike: VR Moba Launched in 2018
+
 Repo: The code belongs to Tribe VR and so I cannot share :( 
 Website: https://www.conjurestrike.com/
 Steam: https://store.steampowered.com/app/924960/Conjure_Strike/
