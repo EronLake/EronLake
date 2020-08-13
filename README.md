@@ -28,8 +28,6 @@ Facebook Page: https://www.facebook.com/ChildrenofAse/?ref=page_internal
 
 ### Conjure Strike: VR Moba Launched in 2018
 
-https://cdn.cloudflare.steamstatic.com/steam/apps/924960/header.jpg?t=1550530872
-
 Repo: The code belongs to Tribe VR and so I cannot share :( 
 
 Website: https://www.conjurestrike.com/
@@ -39,16 +37,19 @@ Steam: https://store.steampowered.com/app/924960/Conjure_Strike/
 
 ## What I am Currently working on: 
 
-A game where we are trying to tackle issue of mental health through games:
+### Gaint Life: A game where we are trying to tackle issue of mental health through games:
+
+https://raw.githubusercontent.com/EronLake/EronLake/master/Giant%20Life.png
 
 https://github.com/MrMonster/GiantLife
 
+### Unbroken Blade: 
 
 A VR game that I work on when I have some spare time (which hasn't been for a while)
 https://github.com/EronLake/UnbrokenBlade
 
 
-...and a new project in Unreal, but more to come on that. 
+...and a new spooky project in Unreal, but more to come on that. 
 
 
 ## 📫 You can reach me at: ...
