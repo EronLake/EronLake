@@ -10,11 +10,13 @@ Pronouns: He/Him/His
 
 ### Games I have worked on:
 
-2025 Labs
+2025 Labs: Part of a private project and can't share the code :( 
 
-Children of Ase 
+2025 Labs: Part of a private project and can't share the code :( 
 
-Conjure Strike 
+Children of Ase: https://github.com/EronLake/Children-of-Ase
+
+Conjure Strike: Part of a private project and can't share the code :( 
 
 
 ### What I am Currently working on: 
