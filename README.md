@@ -39,7 +39,7 @@ Steam: https://store.steampowered.com/app/924960/Conjure_Strike/
 
 ### Gaint Life: A game where we are trying to tackle issue of mental health through games:
 
-https://raw.githubusercontent.com/EronLake/EronLake/master/Giant%20Life.png
+![alt text](https://raw.githubusercontent.com/EronLake/EronLake/master/Giant%20Life.png)
 
 https://github.com/MrMonster/GiantLife
 
