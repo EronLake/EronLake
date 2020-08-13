@@ -1,4 +1,4 @@
-### Hi there 👋 A litte bit about me:
+### Hi There 👋 A Litte Bit About Me:
 
 My name is Eron Lake. I was born and raised in  San Jose, California, though both of my parents are from Guyana (South America) and was actually homeschooled by my mom and grandmother for the early part of my schooling. I graduated from the University of California Santa Cruz with a double major in Computer Science and CS: Game Design, where I designed a led a Game team of 20+! 
 
@@ -8,7 +8,7 @@ Outside of that, I am big into the arts. I spend most of my free time singing, p
 
 Pronouns: He/Him/His
 
-### Games I have worked on:
+### Some Games I Have Worked On:
 
 Bridge Builder: 
 Repo: The code belongs to 2025 Labs and so I cannot share :( 
@@ -35,8 +35,11 @@ A game where we are trying to tackle issue of mental health through games:
 https://github.com/MrMonster/GiantLife
 
 
-...and a new project in Unreal, but more to come on that 
+A VR game that I work on when I have some spare time (which hasn't been for a while)
+https://github.com/EronLake/UnbrokenBlade
 
+
+...and a new project in Unreal, but more to come on that. 
 
 
 ### 📫 You can reach me at: ...
