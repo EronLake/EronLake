@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**EronLake/EronLake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+https://github.com/MrMonster/GiantLife
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+and a new project in Unreal (More to come)
+
+
 - 💬 Ask me about ...
+
+Comic books, I can talk about batman all day.
+
+
 - 📫 How to reach me: ...
+
+eron.j.lake@gmail.com
+
 - 😄 Pronouns: ...
+
+He/Him/His
+
 - ⚡ Fun fact: ...
--->
+
+I started a band in college and they are still playing today! 
