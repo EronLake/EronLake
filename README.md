@@ -10,13 +10,22 @@ Pronouns: He/Him/His
 
 ### Games I have worked on:
 
-2025 Labs: Part of a private project and can't share the code :( 
+Bridge Builder: 
+Repo: The code belongs to 2025 Labs and so I cannot share :( 
 
-2025 Labs: Part of a private project and can't share the code :( 
+Computer Lab: 
+Repo: The code belongs to 2025 Labs and so I cannot share  :( 
 
-Children of Ase: https://github.com/EronLake/Children-of-Ase
+Demo Reel of some games I worked on in collage (including the games above)! 
 
-Conjure Strike: Part of a private project and can't share the code :( 
+Children of Ase: College Final Game project---For which I was the lead!
+Repo: https://github.com/EronLake/Children-of-Ase
+Facebook Page: https://www.facebook.com/ChildrenofAse/?ref=page_internal
+
+Conjure Strike: VR Moba Launched in 2018
+Repo: The code belongs to Tribe VR and so I cannot share :( 
+Website: https://www.conjurestrike.com/
+Steam: https://store.steampowered.com/app/924960/Conjure_Strike/
 
 
 ### What I am Currently working on: 
