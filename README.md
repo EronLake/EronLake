@@ -28,6 +28,8 @@ Facebook Page: https://www.facebook.com/ChildrenofAse/?ref=page_internal
 
 ### Conjure Strike: VR Moba Launched in 2018
 
+https://cdn.cloudflare.steamstatic.com/steam/apps/924960/header.jpg?t=1550530872
+
 Repo: The code belongs to Tribe VR and so I cannot share :( 
 
 Website: https://www.conjurestrike.com/
@@ -38,8 +40,6 @@ Steam: https://store.steampowered.com/app/924960/Conjure_Strike/
 ## What I am Currently working on: 
 
 A game where we are trying to tackle issue of mental health through games:
-
-https://media.discordapp.net/attachments/493548065098170379/742454802319147179/WetShadowsShaderTest_005.png?width=692&height=519
 
 https://github.com/MrMonster/GiantLife
 
