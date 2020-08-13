@@ -11,9 +11,15 @@ Pronouns: He/Him/His
 ## Some Games I Have Worked On:
 
 ### Bridge Builder: Children's game Launched on 2025 Labs site
+
+![alt text](https://github.com/EronLake/EronLake/blob/master/Bridge%20Builder.png?raw=true)
+
 Repo: The code belongs to 2025 Labs and so I cannot share :( 
 
 ### Computer Lab: Children's game Launched on 2025 Labs site
+
+![alt text](https://github.com/EronLake/EronLake/blob/master/Computer%20Lab.png?raw=true)
+
 Repo: The code belongs to 2025 Labs and so I cannot share  :( 
 
 ### Demo Reel of some games I worked on in college (including the games above)! 
@@ -22,7 +28,11 @@ https://www.youtube.com/watch?v=Wp27O2gfqrg
 
 ### Children of Ase: College Final Game project---For which I was the lead!
 
+![alt text](https://github.com/EronLake/EronLake/blob/master/Children%20of%20Ase.png?raw=true)
+
 Repo: https://github.com/EronLake/Children-of-Ase
+
+tailer: https://www.youtube.com/watch?v=FA7YEjElUPI&feature=youtu.be
 
 Facebook Page: https://www.facebook.com/ChildrenofAse/?ref=page_internal
 
