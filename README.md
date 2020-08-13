@@ -10,23 +10,28 @@ Pronouns: He/Him/His
 
 ### Some Games I Have Worked On:
 
-Bridge Builder: 
+## Bridge Builder: Children's game Launched on 2025 Labs site
 Repo: The code belongs to 2025 Labs and so I cannot share :( 
 
-Computer Lab: 
+## Computer Lab: Children's game Launched on 2025 Labs site
 Repo: The code belongs to 2025 Labs and so I cannot share  :( 
 
-Demo Reel of some games I worked on in collage (including the games above)! 
+## Demo Reel of some games I worked on in college (including the games above)! 
 
-Children of Ase: College Final Game project---For which I was the lead!
+https://www.youtube.com/watch?v=Wp27O2gfqrg
+
+## Children of Ase: College Final Game project---For which I was the lead!
 
 Repo: https://github.com/EronLake/Children-of-Ase
+
 Facebook Page: https://www.facebook.com/ChildrenofAse/?ref=page_internal
 
-Conjure Strike: VR Moba Launched in 2018
+## Conjure Strike: VR Moba Launched in 2018
 
 Repo: The code belongs to Tribe VR and so I cannot share :( 
+
 Website: https://www.conjurestrike.com/
+
 Steam: https://store.steampowered.com/app/924960/Conjure_Strike/
 
 
