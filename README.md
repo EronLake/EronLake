@@ -1,6 +1,6 @@
 ## Hi There 👋 A Litte Bit About Me:
 
-My name is Eron Lake. I was born and raised in  San Jose, California, though both of my parents are from Guyana (South America) and was actually homeschooled by my mom and grandmother for the early part of my schooling. I graduated from the University of California Santa Cruz with a double major in Computer Science and CS: Game Design, where I designed a led a Game team of 20+! 
+My name is Eron Lake. I was born and raised in  San Jose, California, though both of my parents are from Guyana (South America). I graduated from the University of California Santa Cruz with a double major in Computer Science and CS: Game Design, where I designed a led a Game team of 20+! 
 
 Since then I have been working full-time at Verizon Media/Yahoo Sports as a Back-End Software Engineer. On the side, I have worked as a Gameplay Programmer with a number if indie teams.
 
@@ -68,6 +68,10 @@ https://github.com/EronLake/UnbrokenBlade
 eron.j.lake@gmail.com
 
 
-## ⚡ Fun fact: ...
+## ⚡ Fun facts: ...
 
+I was homeschooled by my mom and grandmother for the early part of my schooling.
+
+I have an identical twin brother. 
+ 
 I started a band in college and they are still playing today! 
