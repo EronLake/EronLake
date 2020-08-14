@@ -10,6 +10,26 @@ Pronouns: He/Him/His
 
 ## Some Games I Have Worked On:
 
+### Conjure Strike: VR Moba Launched in 2018
+
+![alt text](https://github.com/EronLake/EronLake/blob/master/Conjure%20Srike.jpg?raw=true)
+
+Repo: The code belongs to Tribe VR and so I cannot share :( 
+
+Website: https://www.conjurestrike.com/
+
+Steam: https://store.steampowered.com/app/924960/Conjure_Strike/
+
+### Children of Ase: College Final Game project---For which I was the lead!
+
+![alt text](https://github.com/EronLake/EronLake/blob/master/Children%20of%20Ase.png?raw=true)
+
+Repo: https://github.com/EronLake/Children-of-Ase
+
+Trailer: https://www.youtube.com/watch?v=FA7YEjElUPI&feature=youtu.be
+
+Facebook Page: https://www.facebook.com/ChildrenofAse/?ref=page_internal
+
 ### Bridge Builder: Children's game Launched on 2025 Labs site
 
 ![alt text](https://github.com/EronLake/EronLake/blob/master/Bridge%20Builder.png?raw=true)
@@ -25,27 +45,6 @@ Repo: The code belongs to 2025 Labs and so I cannot share  :(
 ### Demo Reel of some games I worked on in college (including the games above)! 
 
 https://www.youtube.com/watch?v=Wp27O2gfqrg
-
-### Children of Ase: College Final Game project---For which I was the lead!
-
-![alt text](https://github.com/EronLake/EronLake/blob/master/Children%20of%20Ase.png?raw=true)
-
-Repo: https://github.com/EronLake/Children-of-Ase
-
-tailer: https://www.youtube.com/watch?v=FA7YEjElUPI&feature=youtu.be
-
-Facebook Page: https://www.facebook.com/ChildrenofAse/?ref=page_internal
-
-### Conjure Strike: VR Moba Launched in 2018
-
-![alt text](https://github.com/EronLake/EronLake/blob/master/Conjure%20Srike.jpg?raw=true)
-
-Repo: The code belongs to Tribe VR and so I cannot share :( 
-
-Website: https://www.conjurestrike.com/
-
-Steam: https://store.steampowered.com/app/924960/Conjure_Strike/
-
 
 ## What I am Currently working on: 
 
