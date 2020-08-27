@@ -1,6 +1,6 @@
 ## Hi There 👋 A Litte Bit About Me:
 
-My name is Eron Lake. I was born and raised in  San Jose, California, though both of my parents are from Guyana (South America). I graduated from the University of California Santa Cruz with a double major in Computer Science and CS: Game Design, where I designed a led a Game team of 20+! 
+My name is Eron Lake. I was born and raised in  San Jose, California, though both of my parents are from Guyana (South America). I graduated from the University of California Santa Cruz with a double major in Computer Science and CS: Game Design, where I designed and led a Game team of 20+! 
 
 Since then I have been working full-time at Verizon Media/Yahoo Sports as a Back-End Software Engineer. On the side, I have worked as a Gameplay Programmer with a number if indie teams.
 
