@@ -27,7 +27,7 @@ https://github.com/EronLake/UnbrokenBlade
 
 
 
-## Some Games I Have Worked On:
+## Other Games I Have Worked On:
 
 ### Conjure Strike: VR Moba Launched in 2018
 
