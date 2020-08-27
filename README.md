@@ -4,7 +4,7 @@ My name is Eron Lake. I was born and raised in  San Jose, California, though bot
 
 Since then I have been working full-time at Verizon Media/Yahoo Sports as a Back-End Software Engineer. On the side, I have worked as a Gameplay Programmer with several indie teams.
 
-Outside of that, I am big into the arts. I spend most of my free time singing, playing music, dancing, reading, writing, or watching the latest TV show or Movie to be released. Also a must note, is that I am a huge comic book nerd, so I’m your guy if you ever want to think deeply about Batman!  
+Outside of that, I am big into the arts. I spend most of my free time singing, playing music, dancing, reading, writing, or watching the latest TV show or movie to be released. Also a must note, is that I am a huge comic book nerd, so I’m your guy if you ever want to think deeply about Batman!  
 
 Pronouns: He/Him/His
 
