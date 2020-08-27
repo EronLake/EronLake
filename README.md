@@ -2,7 +2,7 @@
 
 My name is Eron Lake. I was born and raised in  San Jose, California, though both of my parents are from Guyana (South America). I graduated from the University of California Santa Cruz with a double major in Computer Science and CS: Game Design, where I designed and led a Game team of 20+! 
 
-Since then I have been working full-time at Verizon Media/Yahoo Sports as a Back-End Software Engineer. On the side, I have worked as a Gameplay Programmer with a number if indie teams.
+Since then I have been working full-time at Verizon Media/Yahoo Sports as a back-end Software Engineer. On the side, I have worked as a Gameplay Programmer with a number if indie teams.
 
 Outside of that, I am big into the arts. I spend most of my free time singing, playing music, dancing, reading, writing, or watching the latest TV show or Movie to be released. Also a must note, is that I am a huge comic book nerd, so I’m your guy if you ever want to think deeply about Batman!  
 
