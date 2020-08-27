@@ -34,8 +34,6 @@ https://github.com/EronLake/UnbrokenBlade
 
 ![alt text](https://github.com/EronLake/EronLake/blob/master/Conjure%20Srike.jpg?raw=true)
 
-Repo: The code belongs to Tribe VR and so I cannot share :( 
-
 Website: https://www.conjurestrike.com/
 
 Steam: https://store.steampowered.com/app/924960/Conjure_Strike/
@@ -54,13 +52,11 @@ Facebook Page: https://www.facebook.com/ChildrenofAse/?ref=page_internal
 
 ![alt text](https://github.com/EronLake/EronLake/blob/master/Bridge%20Builder.png?raw=true)
 
-Repo: The code belongs to 2025 Labs and so I cannot share :( 
 
 ### Computer Lab: Children's game Launched on 2025 Labs site
 
 ![alt text](https://github.com/EronLake/EronLake/blob/master/Computer%20Lab.png?raw=true)
 
-Repo: The code belongs to 2025 Labs and so I cannot share  :( 
 
 ### Demo Reel of some games I worked on in college (including the games above)! 
 
