@@ -8,6 +8,25 @@ Outside of that, I am big into the arts. I spend most of my free time gaming, si
 
 Pronouns: He/Him/His
 
+
+## What I am Currently working on: 
+
+### Gaint Life: A game where we are trying to tackle issue of mental health through games:
+
+![alt text](https://github.com/EronLake/EronLake/blob/master/Giant%20Life_croped.png?raw=true)
+
+https://github.com/MrMonster/GiantLife
+
+### Unbroken Blade: 
+
+A VR game that I work on when I have some spare time (which hasn't been for a while)
+https://github.com/EronLake/UnbrokenBlade
+
+
+...and a new spooky project in Unreal, but more to come on that. 
+
+
+
 ## Some Games I Have Worked On:
 
 ### Conjure Strike: VR Moba Launched in 2018
@@ -45,22 +64,6 @@ Repo: The code belongs to 2025 Labs and so I cannot share  :(
 ### Demo Reel of some games I worked on in college (including the games above)! 
 
 https://www.youtube.com/watch?v=Wp27O2gfqrg
-
-## What I am Currently working on: 
-
-### Gaint Life: A game where we are trying to tackle issue of mental health through games:
-
-![alt text](https://github.com/EronLake/EronLake/blob/master/Giant%20Life_croped.png?raw=true)
-
-https://github.com/MrMonster/GiantLife
-
-### Unbroken Blade: 
-
-A VR game that I work on when I have some spare time (which hasn't been for a while)
-https://github.com/EronLake/UnbrokenBlade
-
-
-...and a new spooky project in Unreal, but more to come on that. 
 
 
 ## 📫 You can reach me at: ...
